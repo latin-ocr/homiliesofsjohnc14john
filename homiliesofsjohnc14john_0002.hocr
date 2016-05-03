@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./homiliesofsjohnc14john_0002.png"; bbox 0 0 1960 3244; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 650 1244 1256 1627">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 650 1244 1256 1627">
+     <span class='ocr_line' id='line_1_1' title="bbox 650 1244 1256 1627; baseline 0 1617"><span class='ocrx_word' id='word_1_1' title='bbox 650 1244 1256 1627; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 428 1673 1355 1812">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 428 1673 1355 1812">
+     <span class='ocr_line' id='line_1_2' title="bbox 428 1673 1007 1758; baseline -0.026 1"><span class='ocrx_word' id='word_1_2' title='bbox 428 1718 499 1758; x_wconf 84' lang='lat' dir='ltr'><strong>BR</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 549 1714 614 1756; x_wconf 80' lang='lat'><strong>60</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 675 1709 810 1752; x_wconf 84' lang='lat' dir='ltr'>.L52</span> <span class='ocrx_word' id='word_1_5' title='bbox 858 1673 1007 1749; x_wconf 46' lang='lat'><strong>§.14</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 429 1751 1355 1812; baseline -0.024 0"><span class='ocrx_word' id='word_1_6' title='bbox 429 1768 578 1812; x_wconf 77' lang='lat' dir='ltr'>John</span> <span class='ocrx_word' id='word_1_7' title='bbox 626 1764 1040 1812; x_wconf 77' lang='lat' dir='ltr'>chrysostom,</span> <span class='ocrx_word' id='word_1_8' title='bbox 1098 1754 1157 1796; x_wconf 87' lang='lat' dir='ltr'><strong>d.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1218 1751 1355 1793; x_wconf 71' lang='lat'>407.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 431 1815 1410 1946">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 431 1815 1410 1946">
+     <span class='ocr_line' id='line_1_4' title="bbox 431 1815 1330 1874; baseline -0.022 1"><span class='ocrx_word' id='word_1_10' title='bbox 431 1833 540 1874; x_wconf 76' lang='lat' dir='ltr'><strong>The</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 587 1825 893 1871; x_wconf 64' lang='lat' dir='ltr'>homilies</span> <span class='ocrx_word' id='word_1_12' title='bbox 943 1820 1014 1863; x_wconf 83' lang='lat' dir='ltr'><strong>of</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1062 1821 1120 1861; x_wconf 89' lang='lat' dir='ltr'><strong>S.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1179 1815 1330 1859; x_wconf 76' lang='lat' dir='ltr'>John</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 473 1878 1410 1946; baseline -0.022 -6"><span class='ocrx_word' id='word_1_15' title='bbox 473 1897 886 1946; x_wconf 79' lang='lat' dir='ltr'><strong>chrysostom,</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 954 1917 1043 1928; x_wconf 89' lang='lat'><strong>...</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1111 1915 1123 1934; x_wconf 86' lang='lat'>‚</span> <span class='ocrx_word' id='word_1_18' title='bbox 1179 1892 1251 1925; x_wconf 87' lang='lat' dir='ltr'><strong>on</strong></span> <span class='ocrx_word' id='word_1_19' title='bbox 1301 1878 1410 1922; x_wconf 73' lang='lat' dir='ltr'><strong>the</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
